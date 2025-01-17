@@ -2,9 +2,9 @@
 
 一个美化网易云音乐播放界面的 [BetterNCM](https://github.com/MicroCBer/BetterNCM) 插件
 
-# Status
+# 状态
 
-Since I no longer use CloudMusic, the maintenance of this project has been suspended indefinitely.
+由于作者现已不再使用网易云音乐，此项目被原作者无限期停更。
 
 # 安装
 
